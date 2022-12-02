@@ -1,0 +1,16 @@
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\bin\Debug\net7.0\01.Carried.Calories.exe
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\bin\Debug\net7.0\01.Carried.Calories.deps.json
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\bin\Debug\net7.0\01.Carried.Calories.runtimeconfig.json
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\bin\Debug\net7.0\01.Carried.Calories.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\bin\Debug\net7.0\01.Carried.Calories.pdb
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.csproj.AssemblyReference.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.AssemblyInfo.cs
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\refint\01.Carried.Calories.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.pdb
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\01.Carried.Calories.genruntimeconfig.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\obj\Debug\net7.0\ref\01.Carried.Calories.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\01.Carried.Calories\bin\Debug\net7.0\input.txt
