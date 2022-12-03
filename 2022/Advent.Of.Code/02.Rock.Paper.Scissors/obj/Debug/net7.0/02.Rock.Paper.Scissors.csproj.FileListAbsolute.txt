@@ -1,0 +1,17 @@
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\02.Rock.Paper.Scissors.exe
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\02.Rock.Paper.Scissors.deps.json
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\02.Rock.Paper.Scissors.runtimeconfig.json
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\02.Rock.Paper.Scissors.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\02.Rock.Paper.Scissors.pdb
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.csproj.AssemblyReference.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.AssemblyInfo.cs
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\refint\02.Rock.Paper.Scissors.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.pdb
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\02.Rock.Paper.Scissors.genruntimeconfig.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\obj\Debug\net7.0\ref\02.Rock.Paper.Scissors.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\input.txt
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\02.Rock.Paper.Scissors\bin\Debug\net7.0\testData.txt
