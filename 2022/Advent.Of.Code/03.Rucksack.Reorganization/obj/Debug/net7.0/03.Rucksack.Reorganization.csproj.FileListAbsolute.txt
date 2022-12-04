@@ -1,0 +1,17 @@
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\03.Rucksack.Reorganization.exe
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\input.txt
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\testData.txt
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\03.Rucksack.Reorganization.deps.json
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\03.Rucksack.Reorganization.runtimeconfig.json
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\03.Rucksack.Reorganization.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\bin\Debug\net7.0\03.Rucksack.Reorganization.pdb
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.csproj.AssemblyReference.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.AssemblyInfo.cs
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\refint\03.Rucksack.Reorganization.dll
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.pdb
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\03.Rucksack.Reorganization.genruntimeconfig.cache
+C:\Users\DJ\Documents\Advent Of Code\2022\Advent.Of.Code\03.Rucksack.Reorganization\obj\Debug\net7.0\ref\03.Rucksack.Reorganization.dll
